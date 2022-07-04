@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header .header-top {
+  background-color: #3f78e0;
+  color: #fff;
+  padding: 20px 0;
+}
+
+header .header-top .top i {
+  margin-right: 10px;
+}
+
+header .header-top .top a {
+  text-decoration: none;
+  color: #fff;
+}
+
+header .header-bottom a {
+  text-decoration: none;
+  color: #000;
+  margin-left: 35px;
+  font-weight: 700;
+}
+
+header .header-bottom i {
+  color: #3f78e0;
+}
+
+header .header-bottom .right a {
+  background-color: #3f78e0;
+  color: #fff;
+  padding: 12px 25px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+
+#first {
+  margin: 40px 0;
+}
+
+#first .left h1 {
+  font-size: 50px;
+  color: #343f52;
+  font-weight: 700;
+  margin-top: 75px;
+}
+
+#first .left p {
+  padding: 30px 0;
+  color: #60697b;
+  font-size: 25px;
+}
+
+#first .left .btn .l {
+  background-color: #3f78e0;
+  padding: 20px 35px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 30px;
+  font-weight: 600;
+}
+
+#first .left .btn .r {
+  background-color: #fff;
+  padding: 20px 35px;
+  text-decoration: none;
+  color: #3f78e0;
+  border: 2px solid #3f78e0;
+  border-radius: 30px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+#second {
+  padding: 4rem 0;
+}
+
+#second img {
+  width: 60%;
+}
+
+#third .top {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding: 30px 0;
+}
+
+#third .top span {
+  color: #aab0bc;
+  font-size: 15px;
+}
+
+#third .top h1 {
+  color: #343f52;
+  font-size: 40px;
+  padding: 15px 0;
+}
+
+#third .bottom {
+  text-align: center;
+}
+
+#third .bottom .a {
+  background-color: #3f78e0;
+  padding: 20px 20px;
+  color: #fff;
+  border-radius: 100%;
+}
+
+#third .bottom h4 {
+  color: #343f52;
+  font-size: 19px;
+  margin: 15px 0;
+}
+
+#third .bottom p {
+  font-size: 16px;
+  color: #60697b;
+}
+
+#third .bottom a {
+  text-decoration: none;
+  color: #3f78e0;
+  font-weight: 600;
+}
+
+#third .bottom i {
+  color: #3f78e0;
+}
+
+#fourth .all {
+  padding: 8rem 0;
+}
+
+#fourth .all .img img {
+  width: 100%;
+}
+
+#fourth .all .top {
+  text-align: start;
+  padding-top: 4rem;
+}
+
+#fourth .all .top h2 {
+  font-size: 40px;
+  color: #343f52;
+  font-weight: 600;
+}
+
+#fourth .all .top p {
+  color: #60697b;
+  font-size: 21px;
+}
+/*# sourceMappingURL=style.css.map */
